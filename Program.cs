@@ -18,10 +18,9 @@ namespace Supermarker_mvp
             // To customize application configuration such as set high DPI settings or default font,
             // see https://aka.ms/applicationconfiguration.
             ApplicationConfiguration.Initialize();
-            string sqlconnectionString =Settings.Default.SqlConnection;
-            IPayModeView view = new PayModeView();
-            IPayModeRepository repository = new PayModeRepository(sqlconnectionString);
-            new PayModePresenter(view, repository);
+            string sqlconnectionString = Settings.Default.SqlConnection;
+            IMainView view = new MainView();
+            new MainPresenter(view, sqlconnectionString);
             Application.Run((Form)view);
         }
     }
