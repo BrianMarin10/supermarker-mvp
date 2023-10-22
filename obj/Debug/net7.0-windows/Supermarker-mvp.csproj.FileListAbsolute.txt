@@ -1,0 +1,17 @@
+C:\Users\CECEP\source\repos\Supermarker-mvp\Supermarker-mvp\obj\Debug\net7.0-windows\Supermarker-mvp.csproj.GenerateResource.cache
+C:\Users\CECEP\source\repos\Supermarker-mvp\Supermarker-mvp\obj\Debug\net7.0-windows\Supermarker-mvp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CECEP\source\repos\Supermarker-mvp\Supermarker-mvp\obj\Debug\net7.0-windows\Supermarker-mvp.AssemblyInfoInputs.cache
+C:\Users\CECEP\source\repos\Supermarker-mvp\Supermarker-mvp\obj\Debug\net7.0-windows\Supermarker-mvp.AssemblyInfo.cs
+C:\Users\CECEP\source\repos\Supermarker-mvp\Supermarker-mvp\obj\Debug\net7.0-windows\Supermarker-mvp.csproj.CoreCompileInputs.cache
+C:\Users\CECEP\source\repos\Supermarker-mvp\Supermarker-mvp\obj\Debug\net7.0-windows\Supermarker_mvp.Views.PayModeView.resources
+C:\Users\CECEP\source\repos\Supermarker-mvp\Supermarker-mvp\bin\Debug\net7.0-windows\Supermarker-mvp.exe
+C:\Users\CECEP\source\repos\Supermarker-mvp\Supermarker-mvp\bin\Debug\net7.0-windows\Supermarker-mvp.deps.json
+C:\Users\CECEP\source\repos\Supermarker-mvp\Supermarker-mvp\bin\Debug\net7.0-windows\Supermarker-mvp.runtimeconfig.json
+C:\Users\CECEP\source\repos\Supermarker-mvp\Supermarker-mvp\bin\Debug\net7.0-windows\Supermarker-mvp.dll
+C:\Users\CECEP\source\repos\Supermarker-mvp\Supermarker-mvp\bin\Debug\net7.0-windows\Supermarker-mvp.pdb
+C:\Users\CECEP\source\repos\Supermarker-mvp\Supermarker-mvp\obj\Debug\net7.0-windows\Supermarker-mvp.dll
+C:\Users\CECEP\source\repos\Supermarker-mvp\Supermarker-mvp\obj\Debug\net7.0-windows\refint\Supermarker-mvp.dll
+C:\Users\CECEP\source\repos\Supermarker-mvp\Supermarker-mvp\obj\Debug\net7.0-windows\Supermarker-mvp.pdb
+C:\Users\CECEP\source\repos\Supermarker-mvp\Supermarker-mvp\obj\Debug\net7.0-windows\Supermarker-mvp.genruntimeconfig.cache
+C:\Users\CECEP\source\repos\Supermarker-mvp\Supermarker-mvp\obj\Debug\net7.0-windows\ref\Supermarker-mvp.dll
+C:\Users\CECEP\source\repos\Supermarker-mvp\Supermarker-mvp\obj\Debug\net7.0-windows\Supermarker_mvp.Properties.Resources.resources
