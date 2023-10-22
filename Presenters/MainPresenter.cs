@@ -22,9 +22,15 @@ namespace Supermarker_mvp.Presenters
 
             this.mainView.ShowPayModeView += ShowPayModeView;
             this.mainView.ShowCategoryView += ShowCategoryView;
+            this.mainView.ShowProvidersView += ShowProvidersView;
         }
 
-
+        private void ShowProvidersView(object? sender, EventArgs e)
+        {
+            IProvidersView view = ProvidersView.GetInstance((MainView)mainView);
+            IProvidersRepository repository = new ProviderRepository(sqlConnectionString);
+            new ProviderPresenter(view, repository);
+        }
         private void ShowCategoryView(object? sender, EventArgs e)
         {
             ICategoryView view = CategoryView.GetInstance((MainView)mainView);
