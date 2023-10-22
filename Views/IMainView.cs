@@ -9,7 +9,7 @@ namespace Supermarker_mvp.Views
     internal interface IMainView
     {
         event EventHandler ShowPayModeView;
-        event EventHandler ShowCategorieView;
+        event EventHandler ShowCategoryView;
         event EventHandler ShowProvidersView;
         event EventHandler ShowProductView;
         event EventHandler ShowCustomerView;

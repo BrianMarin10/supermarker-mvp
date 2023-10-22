@@ -20,11 +20,17 @@ namespace Supermarker_mvp.Presenters
             this.mainView = mainView;
             this.sqlConnectionString = sqlConnectionString;
 
-            this.mainView.ShowPayModeView += ShowPayModeView; 
+            this.mainView.ShowPayModeView += ShowPayModeView;
+            this.mainView.ShowCategoryView += ShowCategoryView;
         }
 
-       
 
+        private void ShowCategoryView(object? sender, EventArgs e)
+        {
+            ICategoryView view = CategoryView.GetInstance((MainView)mainView);
+            ICategoryRepository repository = new CategoryRepository(sqlConnectionString);
+            new CategoryPresenter(view, repository);
+        }
 
         private void ShowPayModeView(object? sender, EventArgs e)
         {
