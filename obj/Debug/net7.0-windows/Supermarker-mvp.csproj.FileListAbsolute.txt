@@ -44,3 +44,4 @@ C:\Users\CECEP\source\repos\Supermarker-mvp\Supermarker-mvp\obj\Debug\net7.0-win
 C:\Users\CECEP\source\repos\Supermarker-mvp\Supermarker-mvp\obj\Debug\net7.0-windows\Supermarket_mvp.Views.MainView.resources
 C:\Users\CECEP\source\repos\Supermarker-mvp\Supermarker-mvp\obj\Debug\net7.0-windows\Supermarker_mvp.Views.CategoryView.resources
 C:\Users\CECEP\source\repos\Supermarker-mvp\Supermarker-mvp\obj\Debug\net7.0-windows\Supermarker_mvp.Views.ProvidersView.resources
+C:\Users\CECEP\source\repos\Supermarker-mvp\Supermarker-mvp\obj\Debug\net7.0-windows\Supermarker_mvp.Views.ProductsView.resources
