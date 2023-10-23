@@ -60,7 +60,7 @@ namespace Supermarker_mvp._Repositories
                 command.Parameters.Add("@name", SqlDbType.NVarChar).Value = productModel.Name;
                 command.Parameters.Add("@price", SqlDbType.NVarChar).Value = productModel.Price;
                 command.Parameters.Add("@stock", SqlDbType.NVarChar).Value = productModel.Stock;
-                command.Parameters.Add("@categorie_id", SqlDbType.NVarChar).Value = productModel.Categorie_id;
+                command.Parameters.Add("@categorie", SqlDbType.NVarChar).Value = productModel.Categorie_id;
                 command.Parameters.Add("@id", SqlDbType.Int).Value = productModel.Id;
                 command.ExecuteNonQuery();
             }
